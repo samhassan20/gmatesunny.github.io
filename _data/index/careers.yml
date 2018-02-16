@@ -1,0 +1,25 @@
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name: Fraunhofer SIT, Germany
+  desc: " "
+  link: https://www.sit.fraunhofer.de/en/
+  date: November, 2017 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
+  job: Thesis Student
+
+- name: SAP SE, Germany
+  desc: in VORA R&D Team
+  link: https://www.sap.com/index.html
+  date: May, 2016 - September, 2017
+  job: Working Student
+
+- name: Intel Security / McAfee Labs, India 
+  desc: in GTI Labs Team
+  link: https://www.mcafee.com/
+  date: October, 2014 - September, 2015
+  job: Software Development Engineer in Test
+
+- name: Tata Consultancy Services, India
+  desc: in Product & Solution Team
+  link: https://www.tcs.com/
+  date: December, 2012 - September, 2014
+  job: Assistant System Engineer

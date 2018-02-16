@@ -1,0 +1,6 @@
+# skills section data
+
+label: Ability
+id : cs
+aspects: Backend, Security, Middleware, Frontend, Database, Motivation
+percentage: 80, 60, 75, 50, 60, 100
