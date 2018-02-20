@@ -5,13 +5,13 @@
     <description>Roshan Mehta personal website.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 16 Feb 2018 11:48:28 +0100</pubDate>
-    <lastBuildDate>Fri, 16 Feb 2018 11:48:28 +0100</lastBuildDate>
+    <pubDate>Tue, 20 Feb 2018 16:27:30 +0100</pubDate>
+    <lastBuildDate>Tue, 20 Feb 2018 16:27:30 +0100</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
     
       <item>
         <title>Hello World</title>
-        <description>&lt;p&gt;I was thinking from a long time to set up my own personal website in &lt;strong&gt;Jekyll&lt;/strong&gt; as I have heard a lot of good things about how easy it to blog with it. I also liked the idea of setting up a personal website rather using some blogging platform like &lt;strong&gt;WordPress&lt;/strong&gt;, &lt;strong&gt;Blogspot&lt;/strong&gt; etc, because it gives you lot of freedom in how you wanted to customize it.&lt;/p&gt;
+        <description>&lt;p&gt;I was thinking from a long time to set up my own personal website based on &lt;strong&gt;Jekyll&lt;/strong&gt; as I have heard a lot of good things about how easy it to blog with it. I also liked the idea of setting up a personal website rather using some blogging platform like &lt;strong&gt;WordPress&lt;/strong&gt;, &lt;strong&gt;Blogspot&lt;/strong&gt; etc, because it gives you lot of freedom in how you wanted to customize it.&lt;/p&gt;
 
 &lt;p&gt;So, today morning I thought let’s do it even though I had other important works pending but it’s okay, I will drink more coffee and hopefully will complete today’s task.&lt;/p&gt;
 

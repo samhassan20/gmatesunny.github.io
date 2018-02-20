@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hello World
-excerpt: "Everything starts with the simple hello."
+excerpt: "Everything starts with a simple hello."
 categories: [Thoughts]
 comments: true
 image:
@@ -10,7 +10,7 @@ image:
   creditlink: https://unsplash.com/@tshellberg
 ---
 
-I was thinking from a long time to set up my own personal website in **Jekyll** as I have heard a lot of good things about how easy it to blog with it. I also liked the idea of setting up a personal website rather using some blogging platform like **WordPress**, **Blogspot** etc, because it gives you lot of freedom in how you wanted to customize it.
+I was thinking from a long time to set up my own personal website based on **Jekyll** as I have heard a lot of good things about how easy it to blog with it. I also liked the idea of setting up a personal website rather using some blogging platform like **WordPress**, **Blogspot** etc, because it gives you lot of freedom in how you wanted to customize it.
 
 So, today morning I thought let's do it even though I had other important works pending but it's okay, I will drink more coffee and hopefully will complete today's task.
 
