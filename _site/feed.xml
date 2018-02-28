@@ -3,11 +3,38 @@
   <channel>
     <title>Roshan Mehta</title>
     <description>Roshan Mehta personal website.</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 20 Feb 2018 16:27:30 +0100</pubDate>
-    <lastBuildDate>Tue, 20 Feb 2018 16:27:30 +0100</lastBuildDate>
+    <link>https://gmatesunny.github.io//</link>
+    <atom:link href="https://gmatesunny.github.io//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 28 Feb 2018 07:41:26 +0100</pubDate>
+    <lastBuildDate>Wed, 28 Feb 2018 07:41:26 +0100</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
+    
+      <item>
+        <title>A Day Not Wasted</title>
+        <description>&lt;p&gt;I was quite irritated with my work and was not even feeling like to see or talk anything worth. So, I thought let’s waste a day and just keep lying in bed but I got bored and was not even getting sleep even after trying really hard :) Then, I decided to watch a movie.&lt;/p&gt;
+
+&lt;p&gt;I started with a 2015 movie named &lt;strong&gt;Proof&lt;/strong&gt;. It was a nice short movie but I was still not getting sleep and I started with another movie &lt;strong&gt;Gifted&lt;/strong&gt;. This one was very good and it took away all my sleep and ended up watching three more movie back to back. I could write the reviews about these movies but I feel people on rotten tomatoes and imdb has already done a good job.&lt;/p&gt;
+
+&lt;h4 id=&quot;so-it-was-not-a-day-wasted-instead-day-well-spent-&quot;&gt;So, It was not a day wasted instead day well spent :)&lt;/h4&gt;
+
+&lt;ul class=&quot;task-list&quot; style=&quot;list-style-type: none&quot;&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; checked=&quot;checked&quot; /&gt;Proof.&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; checked=&quot;checked&quot; /&gt;Gifted.&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; checked=&quot;checked&quot; /&gt;Pawn Sacrifice.&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; checked=&quot;checked&quot; /&gt;The Royal Tenenbaums.&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; checked=&quot;checked&quot; /&gt;Hidden Figures.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I liked all the five movies I saw today and I recommend that you can pick any one of these and trust me your time will not regret.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 27 Feb 2018 00:00:00 +0100</pubDate>
+        <link>https://gmatesunny.github.io//articles/2018-02/A-Day-Not-Wasted</link>
+        <guid isPermaLink="true">https://gmatesunny.github.io//articles/2018-02/A-Day-Not-Wasted</guid>
+        
+        
+        <category>Movies</category>
+        
+      </item>
     
       <item>
         <title>Hello World</title>
@@ -26,8 +53,8 @@
 &lt;p&gt;As it is being setup, I will try to write more and keep it updated.&lt;/p&gt;
 </description>
         <pubDate>Fri, 16 Feb 2018 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/articles/2018-02/Hello-World</link>
-        <guid isPermaLink="true">http://localhost:4000/articles/2018-02/Hello-World</guid>
+        <link>https://gmatesunny.github.io//articles/2018-02/Hello-World</link>
+        <guid isPermaLink="true">https://gmatesunny.github.io//articles/2018-02/Hello-World</guid>
         
         
         <category>Thoughts</category>
