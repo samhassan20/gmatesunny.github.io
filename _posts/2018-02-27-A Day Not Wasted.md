@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Day Not Wasted
-excerpt: "5 Movies in one day"
+excerpt: "Five movies in one day"
 categories: [Movies]
 comments: true
 image:
