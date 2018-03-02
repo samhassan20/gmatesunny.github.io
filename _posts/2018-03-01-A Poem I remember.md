@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Poem, I Love
-excerpt: There was a poem..
+excerpt: There was a poem.
 categories: [Poem]
 comments: true
 image:
@@ -12,7 +12,7 @@ image:
 
 There was a poem I learned when I was a kid for a speech competition and I loved it. Although, I didn't win probably because the other kids were better but the words of that poem stayed with me. Since, after ages, I have forgotten most of it but I still remember few words from it and I tried to retrieve it all but I couldn't. I also tried to search it on the Internet but never found a hit, probably because it was in **Hindi** and I have even forgotten the name of the poet. 
 
-Today, just like that I wrote those few words I remember on Google search bar and I found it. It was written by <a href="https://en.wikipedia.org/wiki/Bal_Krishna_Sharma_Naveen">Bal Krishna Sharma Naveen</a> and it seems he was a great Poet and even awarded Padma Bhushan by Indian Government.
+Today, just like that I wrote those few words I remember on Google search bar and I found it. It was written by <a href="https://en.wikipedia.org/wiki/Bal_Krishna_Sharma_Naveen">Bal Krishna Sharma Naveen</a> and it seems he was a great Poet and even awarded **Padma Bhushan** by Indian Government.
 Anyways, I found the complete poem and I am going to learn it again. 
 So, according to my understanding, the poem summarises like this, You, a human is more powerful than the difficult time in your life. You should never get afraid of the bad phase in your life and you have all the strength to overcome every hurdle the time present to you.
 
