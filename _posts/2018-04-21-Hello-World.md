@@ -6,8 +6,8 @@ categories: [Thoughts]
 comments: true
 image:
   feature: ../img/blog_img/hello.jpg
-  credit: thomas shellberg
-  creditlink: https://unsplash.com/@tshellberg
+  credit: 
+  creditlink: 
 ---
 
 I was thinking from a long time to set up my own personal website based on **Jekyll** as I have heard a lot of good things about how easy it to blog with it. I also liked the idea of setting up a personal website rather using some blogging platform like **WordPress**, **Blogspot** etc, because it gives you lot of freedom in how you wanted to customize it.

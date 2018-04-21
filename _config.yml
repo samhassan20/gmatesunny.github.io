@@ -3,11 +3,11 @@
 # Site wide configuration
 ####################################
 #
-title: Roshan Mehta
-email: gmate.sunny@gmail.com
-description: Roshan Mehta personal website.
-url: https://gmatesunny.github.io/ # the base hostname & protocol for your site
-keywords: ["Programming", "C++", "Python", "DistributedSystem", "HireMe", "Tutorials"]
+title: Samreen Hassan
+email: sammahak.20@gmail.com
+description: Samreen Hassan's personal website.
+url: https://samhassan20.github.io/ # the base hostname & protocol for your site
+keywords: ["fashion", "life tips", "Python", "data science", "HireMe", "Travel blogs"]
 
 #
 ###################################
@@ -35,26 +35,26 @@ kramdown:
 ####################################
 #
 owner:
-  name: Roshan Mehta
+  name: Samreen Hassan
   avatar: leonids-logo.png
-  job: "C++ and Python Developer"
-  bio: "A backend developer having master's degree in distributed systems with interest in secure scalable solution."
-  email: gmate.sunny@gmail.com
-  disqus-shortname: disqus_3LZbbKKNk6
-  twitter:  #username
-  facebook: #username
+  job: "Python and Machine Learning Developer"
+  bio: "A data scientist having master's degree in Computer Science with interest in data and its analysis."
+  email: sammahak.20@gmail.com
+  disqus-shortname: #disqus_3LZbbKKNk6
+  twitter:  WayToSam
+  facebook: samreen.m.hassan
   google:
     plus: #username
-    analytics: UA-114302957-1
+    analytics: #UA-114302957-1
     verify:
     ad-client:
     ad-slot:
   bing-verify:
-  github: gmatesunny #username
-  stackoverflow: /1900589/roshan-mehta #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: gmatesunny #username
+  github: samhassan20 #username
+  stackoverflow: #/1900589/roshan-mehta    from a "http://stackoverflow.com/users/123456/username" link
+  linkedin: sammahak #username
   xing: #username
-  instagram: #username
+  instagram: samhassan20
   lastfm: #username
   tumblr: #username
   pinterest: #username
